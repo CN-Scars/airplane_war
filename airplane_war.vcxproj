@@ -24,7 +24,7 @@
     <ProjectGuid>{53fc9e1d-9262-435f-aa92-ef1c8762310d}</ProjectGuid>
     <RootNamespace>airplanewar</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>fight_plane_The_Definitive_Edition</ProjectName>
+    <ProjectName>airplane_war</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -130,7 +130,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="fight_plane_The_Definitive_Edition.cpp" />
+    <ClCompile Include="airplane_war.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Media Include="resources\10.mp3" />

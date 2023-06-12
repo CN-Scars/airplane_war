@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="fight_plane_The_Definitive_Edition.cpp">
+    <ClCompile Include="airplane_war.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
